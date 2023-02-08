@@ -1,0 +1,8 @@
+C:\Users\PADIO\Documents\CodingExercises\C#\printingQuotes\bin\Debug\printingQuotes.exe.config
+C:\Users\PADIO\Documents\CodingExercises\C#\printingQuotes\bin\Debug\printingQuotes.exe
+C:\Users\PADIO\Documents\CodingExercises\C#\printingQuotes\bin\Debug\printingQuotes.pdb
+C:\Users\PADIO\Documents\CodingExercises\C#\printingQuotes\obj\Debug\printingQuotes.csproj.AssemblyReference.cache
+C:\Users\PADIO\Documents\CodingExercises\C#\printingQuotes\obj\Debug\printingQuotes.csproj.SuggestedBindingRedirects.cache
+C:\Users\PADIO\Documents\CodingExercises\C#\printingQuotes\obj\Debug\printingQuotes.csproj.CoreCompileInputs.cache
+C:\Users\PADIO\Documents\CodingExercises\C#\printingQuotes\obj\Debug\printingQuotes.exe
+C:\Users\PADIO\Documents\CodingExercises\C#\printingQuotes\obj\Debug\printingQuotes.pdb
