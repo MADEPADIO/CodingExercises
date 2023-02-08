@@ -10,8 +10,12 @@ namespace numOfChars
     {
         static void Main(string[] args)
         {
-            Console.Write("Give me a text: ");
-            string text = Console.ReadLine();
+            string text;
+            do
+            {
+                Console.Write("Give me a text: ");
+                text = Console.ReadLine();
+            } while (text == string.Empty) ;
             Console.WriteLine("Your text has " + text.Length + " characters");
         }
     }
