@@ -1,0 +1,8 @@
+C:\Users\PADIO\Documents\CodingExercises\C#\numOfChars\bin\Debug\numOfChars.exe.config
+C:\Users\PADIO\Documents\CodingExercises\C#\numOfChars\bin\Debug\numOfChars.exe
+C:\Users\PADIO\Documents\CodingExercises\C#\numOfChars\bin\Debug\numOfChars.pdb
+C:\Users\PADIO\Documents\CodingExercises\C#\numOfChars\obj\Debug\numOfChars.csproj.AssemblyReference.cache
+C:\Users\PADIO\Documents\CodingExercises\C#\numOfChars\obj\Debug\numOfChars.csproj.SuggestedBindingRedirects.cache
+C:\Users\PADIO\Documents\CodingExercises\C#\numOfChars\obj\Debug\numOfChars.csproj.CoreCompileInputs.cache
+C:\Users\PADIO\Documents\CodingExercises\C#\numOfChars\obj\Debug\numOfChars.exe
+C:\Users\PADIO\Documents\CodingExercises\C#\numOfChars\obj\Debug\numOfChars.pdb
