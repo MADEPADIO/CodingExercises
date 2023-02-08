@@ -20,3 +20,10 @@ namespace numOfChars
         }
     }
 }
+
+/*TODO:Implement this program using a graphical user interface
+and update the character counter every time a key is
+pressed. If your language doesn’t have a particularly
+friendly GUI library, try doing this exercise with HTML
+and JavaScript instead.
+*/
