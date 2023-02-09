@@ -1,0 +1,8 @@
+C:\Users\PADIO\Documents\CodingExercises\C#\simpleMath\bin\Debug\simpleMath.exe.config
+C:\Users\PADIO\Documents\CodingExercises\C#\simpleMath\bin\Debug\simpleMath.exe
+C:\Users\PADIO\Documents\CodingExercises\C#\simpleMath\bin\Debug\simpleMath.pdb
+C:\Users\PADIO\Documents\CodingExercises\C#\simpleMath\obj\Debug\simpleMath.csproj.AssemblyReference.cache
+C:\Users\PADIO\Documents\CodingExercises\C#\simpleMath\obj\Debug\simpleMath.csproj.SuggestedBindingRedirects.cache
+C:\Users\PADIO\Documents\CodingExercises\C#\simpleMath\obj\Debug\simpleMath.csproj.CoreCompileInputs.cache
+C:\Users\PADIO\Documents\CodingExercises\C#\simpleMath\obj\Debug\simpleMath.exe
+C:\Users\PADIO\Documents\CodingExercises\C#\simpleMath\obj\Debug\simpleMath.pdb
