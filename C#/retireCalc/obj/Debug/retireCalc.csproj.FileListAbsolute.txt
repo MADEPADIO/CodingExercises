@@ -1,0 +1,8 @@
+C:\Users\PADIO\Documents\CodingExercises\C#\retireCalc\bin\Debug\retireCalc.exe.config
+C:\Users\PADIO\Documents\CodingExercises\C#\retireCalc\bin\Debug\retireCalc.exe
+C:\Users\PADIO\Documents\CodingExercises\C#\retireCalc\bin\Debug\retireCalc.pdb
+C:\Users\PADIO\Documents\CodingExercises\C#\retireCalc\obj\Debug\retireCalc.csproj.AssemblyReference.cache
+C:\Users\PADIO\Documents\CodingExercises\C#\retireCalc\obj\Debug\retireCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\PADIO\Documents\CodingExercises\C#\retireCalc\obj\Debug\retireCalc.csproj.CoreCompileInputs.cache
+C:\Users\PADIO\Documents\CodingExercises\C#\retireCalc\obj\Debug\retireCalc.exe
+C:\Users\PADIO\Documents\CodingExercises\C#\retireCalc\obj\Debug\retireCalc.pdb
