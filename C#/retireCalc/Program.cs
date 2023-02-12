@@ -53,8 +53,14 @@ namespace retireCalc
             age = IntParser("Input your current age: ");
             retire = IntParser("Input the age you'll like to retire: ");
             int thisYear = DateTime.Now.Year;
-            Console.WriteLine("The year is {0}, so the year you will retire is {1}", thisYear, thisYear + (retire - age));
-
+            if (retire < age)
+            {
+                Console.WriteLine("The year is {0}, you are supposed to retire in {1}", thisYear, thisYear + (retire - age));
+            }
+            else
+            {
+                Console.WriteLine("The year is {0}, so the year you will retire is {1}", thisYear, thisYear + (retire - age));
+            }
         }
     }
 }
