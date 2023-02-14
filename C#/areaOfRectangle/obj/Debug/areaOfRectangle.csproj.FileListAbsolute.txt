@@ -1,0 +1,8 @@
+C:\Users\PADIO\Documents\CodingExercises\C#\areaOfRectangle\bin\Debug\areaOfRectangle.exe.config
+C:\Users\PADIO\Documents\CodingExercises\C#\areaOfRectangle\bin\Debug\areaOfRectangle.exe
+C:\Users\PADIO\Documents\CodingExercises\C#\areaOfRectangle\bin\Debug\areaOfRectangle.pdb
+C:\Users\PADIO\Documents\CodingExercises\C#\areaOfRectangle\obj\Debug\areaOfRectangle.csproj.AssemblyReference.cache
+C:\Users\PADIO\Documents\CodingExercises\C#\areaOfRectangle\obj\Debug\areaOfRectangle.csproj.SuggestedBindingRedirects.cache
+C:\Users\PADIO\Documents\CodingExercises\C#\areaOfRectangle\obj\Debug\areaOfRectangle.csproj.CoreCompileInputs.cache
+C:\Users\PADIO\Documents\CodingExercises\C#\areaOfRectangle\obj\Debug\areaOfRectangle.exe
+C:\Users\PADIO\Documents\CodingExercises\C#\areaOfRectangle\obj\Debug\areaOfRectangle.pdb
