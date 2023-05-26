@@ -35,7 +35,7 @@ namespace simpleMath
             int number = 0;
             do
             {
-                Console.Write(prompt);
+                 Console.Write(prompt);
                 s = Console.ReadLine();
                 if (!IsAllDigits(s))
                 {

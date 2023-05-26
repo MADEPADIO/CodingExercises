@@ -1,0 +1,8 @@
+C:\Users\PADIO\Documents\CodingExercises\C#\pizzaParty\bin\Debug\pizzaParty.exe.config
+C:\Users\PADIO\Documents\CodingExercises\C#\pizzaParty\bin\Debug\pizzaParty.exe
+C:\Users\PADIO\Documents\CodingExercises\C#\pizzaParty\bin\Debug\pizzaParty.pdb
+C:\Users\PADIO\Documents\CodingExercises\C#\pizzaParty\obj\Debug\pizzaParty.csproj.AssemblyReference.cache
+C:\Users\PADIO\Documents\CodingExercises\C#\pizzaParty\obj\Debug\pizzaParty.csproj.SuggestedBindingRedirects.cache
+C:\Users\PADIO\Documents\CodingExercises\C#\pizzaParty\obj\Debug\pizzaParty.csproj.CoreCompileInputs.cache
+C:\Users\PADIO\Documents\CodingExercises\C#\pizzaParty\obj\Debug\pizzaParty.exe
+C:\Users\PADIO\Documents\CodingExercises\C#\pizzaParty\obj\Debug\pizzaParty.pdb

@@ -1,0 +1,8 @@
+C:\Users\PADIO\Documents\CodingExercises\C#\novelLibrary\bin\Debug\novelLibrary.exe.config
+C:\Users\PADIO\Documents\CodingExercises\C#\novelLibrary\bin\Debug\novelLibrary.exe
+C:\Users\PADIO\Documents\CodingExercises\C#\novelLibrary\bin\Debug\novelLibrary.pdb
+C:\Users\PADIO\Documents\CodingExercises\C#\novelLibrary\obj\Debug\novelLibrary.csproj.AssemblyReference.cache
+C:\Users\PADIO\Documents\CodingExercises\C#\novelLibrary\obj\Debug\novelLibrary.csproj.SuggestedBindingRedirects.cache
+C:\Users\PADIO\Documents\CodingExercises\C#\novelLibrary\obj\Debug\novelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\PADIO\Documents\CodingExercises\C#\novelLibrary\obj\Debug\novelLibrary.exe
+C:\Users\PADIO\Documents\CodingExercises\C#\novelLibrary\obj\Debug\novelLibrary.pdb
